@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>begin.jpg</file>
+        <file>exit.png</file>
+        <file>game.jpg</file>
+        <file>gameoverbg.jpg</file>
+        <file>goal.png</file>
+        <file>hint1.png</file>
+        <file>hint2.png</file>
+        <file>icon.jpg</file>
+        <file>restart.png</file>
+        <file>start.png</file>
+        <file>target1.png</file>
+        <file>target2.png</file>
+        <file>trail.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/img/hourse">
+        <file>hourse1.png</file>
+        <file>hourse2.png</file>
+        <file>hourse3.png</file>
+        <file>hourse4.png</file>
+        <file>hourse5.png</file>
+        <file>hourse6.png</file>
+        <file>hourse7.png</file>
+        <file>hourse8.png</file>
+        <file>hourse9.png</file>
+        <file>hourse10.png</file>
+        <file>hourse11.png</file>
+        <file>hourse12.png</file>
+        <file>hourse13.png</file>
+        <file>hourse14.png</file>
+        <file>hourse15.png</file>
+    </qresource>
+</RCC>
