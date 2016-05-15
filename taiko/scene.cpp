@@ -144,7 +144,7 @@ void Scene::bgChange(){
     timer2->start(300);
 
     //bgm
-    bgm=new QSound("../sound/bgm.wav");
+    bgm=new QSound(":/sound/bgm.wav");
     bang=new QSound(":/sound/bang.wav");
     bgm->play();
 
